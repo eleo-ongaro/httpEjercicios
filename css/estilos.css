@@ -1,0 +1,49 @@
+*{
+    color: darkcyan;
+}
+P, span{
+    color: red;
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 3px dotted red;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 30px 20px 15px 10px;
+    font-style: oblique;
+    font-weight: bold;
+    color: blue;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #mi_parrafo {
+    color: blueviolet;
+    font-size: 30px;
+    border: 2px solid black;
+  }
+
+  .estaesmiclase{
+    font-weight: bold;
+    color:chartreuse;
+  }
+/*
+  section h1 {
+    font-size: 300px;
+  }
+  */
